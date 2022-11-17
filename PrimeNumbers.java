@@ -1,4 +1,4 @@
-package LogicalPrograms;
+package LogicalProgramsPratice;
 import java.util.Scanner;
 
 public class PrimeNumbers {
