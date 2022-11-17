@@ -1,4 +1,4 @@
-package LogicalProgramsPratice;
+package LogicalProgramsPraticea;
 import java.util.Scanner;
 
 public class Fibonacci {
