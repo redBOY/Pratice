@@ -11,6 +11,9 @@ public class VowelMethod {
                 if (str.charAt(i) == 'a' || str.charAt(i) == 'e' || str.charAt(i) == 'o' || str.charAt(i) == 'i' || str.charAt(i) == 'u') {
                     count++;
                     System.out.println("Number of Vowels in a given sentence is" + count);
+                        }
+                        else{
+                          System.out.println("Number of consonants are"+count);
                 }
             }
         }
